@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<!DOCTYPE toc PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp TOC Version 2.0//EN" "http://java.sun.com/products/javahelp/toc_2_0.dtd">
+<toc version="2.0" >
+
+    <tocitem
+        target="JEEP"
+        text="Java Exclusively Email Project Help Menu" />
+
+    <tocitem
+        target="Send"
+        text="Sending an email" />
+
+    <tocitem
+        target="Reply"
+        text="Replying to an email" />
+
+    <tocitem
+        target="Create"
+        text="Creating a new email" />
+
+    <tocitem
+        target="Delete"
+        text="Deleting an email" />
+
+    <tocitem
+        target="Config"
+        text="Mail Configuration" />
+
+</toc>
